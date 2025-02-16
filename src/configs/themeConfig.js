@@ -10,8 +10,8 @@
  * Another way is to clear the cookie from the browser's Application/Storage tab and then reload the page.
  */
 const themeConfig = {
-    templateName: 'Nutriscan',
-    settingsCookieName: 'nutriscan',
+    templateName: 'Stock indicator',
+    settingsCookieName: 'stock_indicator',
     mode: 'light', // 'light', 'dark'
     layoutPadding: 24, // Common padding for header, content, footer layout components (in px)
     compactContentWidth: 1440, // in px
